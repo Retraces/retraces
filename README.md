@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=retraces&label=Profile%20views&color=98fc98&style=flat-square" alt="retraces" /> </p>
 
-- 🔭 I’m currently working on **Steam scrape**
+- 🔭 I’m currently working on: **Steam scrape**
 
-- 🧠 Fun fact **I have no idea what I'm doing**
+- 🧠 Fun fact: **I have no idea what I'm doing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
