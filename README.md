@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=retraces&label=Profile%20views&color=98fc98&style=flat-square" alt="retraces" /> </p>
 
-- 🔭 I’m currently working on: **Steam scrape**
-
-- 🧠 Fun fact: **I have no idea what I'm doing**
-
 <p align="left">
 </p>
 
